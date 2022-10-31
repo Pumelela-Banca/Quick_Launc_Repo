@@ -1,0 +1,6 @@
+C:/Users/user/Videos---Music Vids
+C:/Users/user/Downloads/Video---Down Vids
+C:/Users/user/Documents/STudy sounds---Study Sounds
+C:/Program Files/JetBrains/PyCharm Community Edition 2018.2.4/bin/pycharm.exe---Py Cham
+C:/Users/user/Documents/Coding Books & Courses/Python Books/Python GUI Programming with Tkinter/[Bookflare.net] - Python GUI Programming with Tkinter.epub---Py-Gui Book
+C:/Users/user/Documents/Coding Books & Courses/Programming Books/Mark Lutz - Programming Python, Fourth Edition - 2010.pdf---Programing Python
