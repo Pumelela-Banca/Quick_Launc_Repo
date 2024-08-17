@@ -1,17 +1,33 @@
-# Quick_Launc_Repo
+# Quick_Launch_Repo
 
+**Quick_Launch_Repo** is a desktop application designed to quickly launch preselected apps and directories, enhancing productivity and efficiency.
 
-A desktop application that quick launches preselected apps and directories.
+## Features
 
+- **Add Folder Button**: Adds a folder to the quick access list for easy retrieval.
+- **Add App Button**: Adds files or applications to the quick access list, allowing them to be opened with a single click.
+- **Remove Button**: Removes items from the quick access list, keeping your workspace organized.
 
-## Add folder button
+## Getting Started
 
-This button adds a folder to be stored in quick access
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/Quick_Launch_Repo.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd Quick_Launch_Repo
+    ```
+## Usage
 
-## Add app button 
+- **Add Folder**: Click the "Add Folder" button to select and add a folder to the quick access list.
+- **Add App**: Click the "Add App" button to select and add a file or application to the quick access list.
+- **Remove**: Click the "Remove" button to delete an item from the quick access list.
 
-Button adds files or applications that will be opened when button is clicked.
+## Contributing
 
-## Remove button
+Contributions are welcome! Please fork this repository and submit a pull request.
 
-This button removes buttons from window.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
