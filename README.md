@@ -12,12 +12,13 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Quick_Launch_Repo.git
+    https://github.com/Pumelela-Banca/Quick_Launc_Repo.git
     ```
 2. **Navigate to the project directory**:
     ```bash
     cd Quick_Launch_Repo
     ```
+- Run the makeFrame.exe file.
 ## Usage
 
 - **Add Folder**: Click the "Add Folder" button to select and add a folder to the quick access list.
